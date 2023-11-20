@@ -1,0 +1,10 @@
+*{
+    background-color: crimson;
+   
+}
+h1{
+    color: azure;
+    border: 20px;
+    border-radius: 100px;
+    box-shadow: 200px;
+}
